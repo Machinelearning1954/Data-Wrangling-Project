@@ -1,0 +1,32 @@
+# Machine Learning Engineering Bootcamp Capstone: Data Wrangling
+
+- [x] **Step 1: Collect and Explore Datasets from Multiple Sources**
+  - [x] Identify and select primary dataset(s) based on project goals or user preference.
+  - [x] Identify and select at least one additional disparate data source (API, CSV, etc.) to enhance the primary dataset.
+  - [x] Collect data from the selected sources.
+  - [x] Perform initial exploration of each dataset (e.g., understand structure, identify key variables, check basic statistics).
+- [x] **Step 2: Clean and Merge Datasets**
+  - [x] Address missing values in each dataset (e.g., imputation, removal).
+  - [x] Identify and handle outliers in each dataset (e.g., transformation, removal, capping).
+  - [x] Merge/join the datasets based on relevant keys or common information.
+  - [x] Verify the integrity and consistency of the merged dataset.
+- [x] **Step 3: Perform Data Wrangling and Feature Engineering**
+  - [x] Apply data wrangling techniques (e.g., reshaping, pivoting, grouping).
+  - [x] Create new features that could improve model performance (feature engineering).
+  - [x] Standardize or normalize data as needed.
+- [x] **Step 4: Visualize Data to Inform Decisions and Document Process**
+  - [x] Create visualizations to understand data distributions, relationships, and the impact of cleaning/wrangling steps.
+  - [x] Use visualizations to guide decisions on handling missing values, outliers, and feature engineering.
+  - [x] Document all data wrangling steps and decisions in a Jupyter notebook.
+- [x] **Step 5: Validate Data Quality and Decisions**
+  - [x] Review the cleaned and wrangled dataset for quality and suitability for ML modeling.
+  - [x] Justify the decisions made during the data wrangling process.
+- [x] **Step 6: Prepare and Upload Cleaned Data and Code to GitHub**
+  - [x] Organize the project with a clear directory structure (e.g., data, notebooks, scripts).
+  - [x] Ensure the Jupyter notebook(s) are well-documented with step-by-step explanations.
+  - [x] Create a README.md for the GitHub repository explaining the project, data sources, and how to run the code.
+  - [x] Upload the cleaned dataset(s) (or provide scripts to download/generate them).
+  - [x] Upload the Jupyter notebook(s) and any other relevant code to GitHub.
+- [x] **Step 7: Report and Send GitHub Repository to User**
+  - [x] Provide the user with the link to the GitHub repository.
+  - [x] Summarize the work done and highlight key outcomes.
